@@ -1,2 +1,3 @@
 # Food_Ingredient_Parser
-a simple python scripts to lexed ingredients lists into dictionnaries and/or nested lists
+## Started gitRepo: 20210726
+A simple python script(s) to lexed ingredients lists into dictionnaries and/or nested lists
