@@ -27,4 +27,4 @@ Data from the MINTEL GNPD Database use different sorts of grammar to reproduce i
 
 ### Script Description
 
-## Plans of Improvments
+## Improvements Planification
