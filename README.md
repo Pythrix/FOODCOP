@@ -50,8 +50,17 @@ __Libraries to be installed__:
 
 ### Data Organisation
 
+FIP must be downloaded or cloned respecting its tree structure.
+
+The functional scripts are located under the "__Scripts__" folder and data to be parsed under the folder "__RawData__". Outputs of the scripts will be generated into a folder called "__ResultsYYYYMMDD__".
+
+"Scripts" folder contains two main files, "__FIPFunc.py__" and "__FIPRun.py__". First file contains all python functions needed by FIP. File must not be deleted. "FIPRun.py" allows to launch the parser.
+
+To start parsing a set of ingredient lists simply launch on your favorite IDE or terminal the "FIPRun.py" file. 
 
 
 ### Script Description
+
+
 
 ## Improvements Planification
