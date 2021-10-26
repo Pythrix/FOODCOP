@@ -17,7 +17,7 @@ This file includes a detailed description of the github and instructions to exec
 ## Introduction
 
 __General Purpose__
-The Food Ingredient Parser(FIP) is a set of python scripts for parsing ingredient lists obtained by scanning product packaging. It has been specifically developed to analyse ingredient lists extracted from the [MINTEL GNPD](https://www.mintel.com/) food innovation database, and has not yet been tested on data from other similar databases - it will be updated for this purpose later. 
+The Food Ingredient Parser(FIP) is a set of python scripts for parsing ingredient lists obtained by scanning product packaging. It has been specifically developed to analyse ingredient lists extracted from the [MINTEL GNPD](https://www.mintel.com/) food innovation database, and has not yet been tested on data from other similar databases - it will be updated for this purpose later(report to section "Improvements Planification"). 
 
 __Why a new parser?__
 Data from the MINTEL GNPD Database use different sorts of grammar to reproduce ingredients lists given in products packaging. Most of classical parsers failed on parsing such heterogenuous data. 
