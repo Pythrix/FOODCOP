@@ -1,6 +1,9 @@
 # Food_Ingredient_Parser
 version 1.0 20211031 - bêta version
-authors: Tristan Salord, Marie-Benoît Magrini, Guillaume Cabanac
+
+main credit: Tristan Salord, AGIR ODYCEE INRAE 
+
+collaborators: [Guillaume Cabanac](https://www.irit.fr/~Guillaume.Cabanac/cv.pdf), [Marie-Benoît Magrini](https://www6.toulouse.inrae.fr/agir/Les-equipes/ODYCEE/Membres/Magrini-Marie-Benoit)
 
 [INRAE](https://www.inrae.fr/), UMR 1248 AGIR 
 
