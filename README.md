@@ -22,6 +22,9 @@ Data from the MINTEL GNPD Database use different sorts of grammar to reproduce i
 __Utility?__
 Parsing food ingredient list, i.e transofrming raw ingredient list text into a structured data type allow to perform numerous scientific operation: identify certain types of ingredient, of species used in food composition, study food product evolution, assess food product complexity, etc.
 
+__Performance__
+FIP was tested on a large dataset of about 300,000 food ingredient lists extracted from MINTEL GNPD DB. It works with a margin of errors located under 2% depending on the size of the input data. 
+
 __Evolution__
 FIP will be updated until it reaches the point in its evolution where it can become a complete python library. 
 
@@ -56,11 +59,16 @@ The functional scripts are located under the "__Scripts__" folder and data to be
 
 "Scripts" folder contains two main files, "__FIPFunc.py__" and "__FIPRun.py__". First file contains all python functions needed by FIP. File must not be deleted. "FIPRun.py" allows to launch the parser.
 
-To start parsing a set of ingredient lists simply launch on your favorite IDE or terminal the "FIPRun.py" file. 
+To start parsing a set of ingredient lists simply launch from your favorite IDE, or from terminal, the "FIPRun.py" file. 
 
 
 ### Script Description
 
-
+[ to be populated ]
 
 ## Improvements Planification
+
++ Automatic recognition of input data
++ Structured Log File
++ MultiThreading
++ Benchmark on other FoodDB
