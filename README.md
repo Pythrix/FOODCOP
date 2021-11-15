@@ -63,18 +63,16 @@ __Decoding full dataframe__:
 
 ### Required Libraries
 
-__Native Python Libraries__:
-
-- os
-- re
-- time
-
 __Libraries to be installed__:
 
 - [thefuzz](https://github.com/seatgeek/thefuzz)
 - numpy
 - pandas
-- - python-Levenshtein
+- openpyxl (to export as xlsx from pandas)
+- python-Levenshtein
+
+To simplify installation in your testing environment: "pip install -r requirements.txt"
+
 
 ### Data Organisation
 [_TO UPDATE_]
